@@ -1,0 +1,18 @@
+install mvn:ch.qos.logback/logback-classic/1.0.7
+install mvn:com.typesafe.akka/akka-actor_2.10/2.1.4
+install mvn:com.typesafe.akka/akka-osgi_2.10/2.1.4
+install mvn:com.typesafe.akka/akka-slf4j_2.10/2.1.4
+install mvn:com.typesafe.atmos.osgi/trace-akka-osgi-2.1.4/1.3.1
+install mvn:com.typesafe/config/0.4.1
+install mvn:org.scala-lang/scala-library/2.10.3
+install mvn:org.slf4j/slf4j-api/1.7.2
+
+
+
+
+
+
+
+
+install mvn:com.typesafe.atmos/atmos-event_2.10/1.3.1
+install mvn:com.typesafe.atmos/atmos-trace_2.10/1.3.1
